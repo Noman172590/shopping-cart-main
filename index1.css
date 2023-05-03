@@ -1,0 +1,20 @@
+.p{
+    color:tomato;
+    font-size: 26px;
+    line-height: 33px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    border: 2px dashed black;
+    margin: 50px 250px;
+
+    
+}
+.p:hover{
+
+    color:white;
+    background-color: red;
+    margin: 50px 250px;
+    border: 2px dashed black;
+
+}
